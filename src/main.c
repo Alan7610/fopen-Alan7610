@@ -64,6 +64,6 @@ int main()
         fclose(f_cap);
     }
 
-    printf("Archivos generados correctamente para el autograder.\n");
+    printf("Archivos generados correctamente.\n");
     return 0;
 }
